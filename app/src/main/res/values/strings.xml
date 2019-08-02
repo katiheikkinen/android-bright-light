@@ -1,6 +1,4 @@
 <resources>
-    <string name="app_name">kirkasvalolamppu</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_name">Bright Light Lamp</string>
+    <string name="saved_time">Saved time</string>
 </resources>
